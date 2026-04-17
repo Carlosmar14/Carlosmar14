@@ -431,11 +431,3 @@ Estoy buscando mi próxima gran oportunidad para contribuir con mis habilidades 
 </div>
 
 </div>
-
-![Visitantes](https://profile-counter.glitch.me/CarlosManuelArbelo/count.svg)
-
-**"El código es poesía en movimiento"** ✨
-
-<img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" width="120" alt="Happy Coding">
-
-</div>
