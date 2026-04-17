@@ -1,133 +1,312 @@
 <div align="center">
 
-# 👋 Hola, soy Carlos Manuel Arbelo Rodriguez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,58A6FF,0D1117&height=300&section=header&text=Carlos%20Manuel%20Arbelo%20Rodriguez&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=35" alt="header"/>
 
-### 🚀 Desarrollador Apasionado por la Tecnología
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosManuelArbelo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbelocarlos3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosmanuelarbelo)
-
----
-
-</div>
-
-## 🎯 Sobre Mí
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Creando+soluciones+innovadoras)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://media.giphy.com/media/CodeWorker领取/giphy.gif" width="60" alt="Coding">
+  <a href="mailto:arbelocarlos3@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/CarlosManuelArbelo">
+    <img src="https://img.shields.io/badge/🐙_GitHub-CarlosManuelArbelo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/carlosmanuelarbelo">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-CarlosManuelArbelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
-
-Soy un desarrollador entusiasta con pasión por crear soluciones tecnológicas innovadoras. Me especializo en construir aplicaciones modernas y escalables, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
-
-**💼 Actualmente:** Desarrollando proyectos emocionantes  
-**🌱 Aprendiendo:** Nuevas tecnologías y frameworks  
-**💡 Intereses:** Desarrollo de software, arquitectura limpia, mejores prácticas  
-**📫 Contacto:** arbelocarlos3@gmail.com
-
----
-
-## 💻 Tecnologías y Herramientas
-
-<div align="center">
-
-### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=35495E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-
-### Backend & Bases de Datos
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=43853D)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
-
-### Herramientas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🎯 Perfil Profesional
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="Coding"/>
+  <br/><br/>
+  <strong>💼 Rol Actual</strong><br/>
+  Desarrollador de Software
+</td>
+<td align="center" width="50%">
+  <img src="https://media.giphy.com/media/32mC2kXYWCsgQ/giphy.gif" width="150" alt="Learning"/>
+  <br/><br/>
+  <strong>🌱 Enfoque</strong><br/>
+  Aprendizaje Continuo
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 💻 Stack Tecnológico
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosManuelArbelo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)
+### 🎨 Frontend Development
+<table>
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br/>
+  <sub><strong>React</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue"/><br/>
+  <sub><strong>Vue.js</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/><br/>
+  <sub><strong>HTML5</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/><br/>
+  <sub><strong>CSS3</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/>
+  <sub><strong>JavaScript</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/><br/>
+  <sub><strong>TypeScript</strong></sub>
+</td>
+</tr>
+</table>
 
-![Racha de Commits](https://github-readme-streak-stats.herokuapp.com/?user=CarlosManuelArbelo&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF)
+### ⚙️ Backend & Bases de Datos
+<table>
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br/>
+  <sub><strong>Node.js</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/>
+  <sub><strong>Python</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br/>
+  <sub><strong>Java</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/><br/>
+  <sub><strong>MongoDB</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br/>
+  <sub><strong>PostgreSQL</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br/>
+  <sub><strong>MySQL</strong></sub>
+</td>
+</tr>
+</table>
 
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosManuelArbelo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+### 🛠️ Herramientas & DevOps
+<table>
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/>
+  <sub><strong>Git</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br/>
+  <sub><strong>Docker</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/><br/>
+  <sub><strong>Linux</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br/>
+  <sub><strong>GitHub</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/><br/>
+  <sub><strong>VS Code</strong></sub>
+</td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/><br/>
+  <sub><strong>Figma</strong></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Trofeos y Logros
+## 📊 Estadísticas Detalladas
 
 <div align="center">
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=CarlosManuelArbelo&theme=radical&no-frame=true&row=2&margin-w=15&no-bg=true)
+<table>
+<tr>
+<td width="50%">
+  
+![Estadísticas Principales](https://github-readme-stats.vercel.app/api?username=CarlosManuelArbelo&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)
+
+</td>
+<td width="50%">
+  
+![Racha de Commits](https://github-readme-streak-stats.herokuapp.com/?user=CarlosManuelArbelo&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosManuelArbelo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 Actividad en GitHub
+##  Gráfico de Actividad
 
 <div align="center">
 
-[![Actividad en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=CarlosManuelArbelo&theme=react-dark&hide_border=true&background=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/CarlosManuelArbelo)
+[![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=CarlosManuelArbelo&theme=react-dark&hide_border=true&background=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)](https://github.com/CarlosManuelArbelo)
 
 </div>
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🏆 Logros y Reconocimientos
 
 <div align="center">
 
-### [Nombre del Proyecto 1](https://github.com/CarlosManuelArbelo/proyecto1)
-![GitHub stars](https://img.shields.io/github/stars/CarlosManuelArbelo/proyecto1?style=for-the-badge&labelColor=333&color=gold)
-![GitHub forks](https://img.shields.io/github/forks/CarlosManuelArbelo/proyecto1?style=for-the-badge&labelColor=333&color=blue)
-
-Breve descripción del proyecto y las tecnologías utilizadas.
-
-### [Nombre del Proyecto 2](https://github.com/CarlosManuelArbelo/proyecto2)
-![GitHub stars](https://img.shields.io/github/stars/CarlosManuelArbelo/proyecto2?style=for-the-badge&labelColor=333&color=gold)
-![GitHub forks](https://img.shields.io/github/forks/CarlosManuelArbelo/proyecto2?style=for-the-badge&labelColor=333&color=blue)
-
-Breve descripción del proyecto y las tecnologías utilizadas.
-
-### [Nombre del Proyecto 3](https://github.com/CarlosManuelArbelo/proyecto3)
-![GitHub stars](https://img.shields.io/github/stars/CarlosManuelArbelo/proyecto3?style=for-the-badge&labelColor=333&color=gold)
-![GitHub forks](https://img.shields.io/github/forks/CarlosManuelArbelo/proyecto3?style=for-the-badge&labelColor=333&color=blue)
-
-Breve descripción del proyecto y las tecnologías utilizadas.
+![Trofeos GitHub](https://github-profile-trophy.vercel.app/?username=CarlosManuelArbelo&theme=radical&no-frame=true&row=2&column=4&margin-w=15&no-bg=true)
 
 </div>
 
 ---
 
-## 🤝 ¡Conectemos!
+##  Proyectos Destacados
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosmanuelarbelo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CarlosArbelo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbelocarlos3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosManuelArbelo)
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 [Nombre del Proyecto 1](https://github.com/CarlosManuelArbelo/proyecto1)
+
+![GitHub Stars](https://img.shields.io/github/stars/CarlosManuelArbelo/proyecto1?style=for-the-badge&labelColor=333&color=gold&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/CarlosManuelArbelo/proyecto1?style=for-the-badge&labelColor=333&color=blue&logo=github)
+
+Descripción del proyecto destacando las funcionalidades principales y el impacto.
+
+**Tecnologías:** React, Node.js, MongoDB
+
+</td>
+<td width="50%">
+
+### 💡 [Nombre del Proyecto 2](https://github.com/CarlosManuelArbelo/proyecto2)
+
+![GitHub Stars](https://img.shields.io/github/stars/CarlosManuelArbelo/proyecto2?style=for-the-badge&labelColor=333&color=gold&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/CarlosManuelArbelo/proyecto2?style=for-the-badge&labelColor=333&color=blue&logo=github)
+
+Descripción del proyecto destacando las funcionalidades principales y el impacto.
+
+**Tecnologías:** Python, Django, PostgreSQL
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 [Nombre del Proyecto 3](https://github.com/CarlosManuelArbelo/proyecto3)
+
+![GitHub Stars](https://img.shields.io/github/stars/CarlosManuelArbelo/proyecto3?style=for-the-badge&labelColor=333&color=gold&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/CarlosManuelArbelo/proyecto3?style=for-the-badge&labelColor=333&color=blue&logo=github)
+
+Descripción del proyecto destacando las funcionalidades principales y el impacto.
+
+**Tecnologías:** Vue.js, Express, MySQL
+
+</td>
+<td width="50%">
+
+### ⚡ [Nombre del Proyecto 4](https://github.com/CarlosManuelArbelo/proyecto4)
+
+![GitHub Stars](https://img.shields.io/github/stars/CarlosManuelArbelo/proyecto4?style=for-the-badge&labelColor=333&color=gold&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/CarlosManuelArbelo/proyecto4?style=for-the-badge&labelColor=333&color=blue&logo=github)
+
+Descripción del proyecto destacando las funcionalidades principales y el impacto.
+
+**Tecnologías:** Java, Spring Boot, MySQL
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 Certificaciones y Educación
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <strong>🎓 Educación</strong><br/>
+  [Tu Universidad/Institución]<br/>
+  [Tu Título]<br/>
+  <sub>[Año de inicio] - [Año de fin]</sub>
+</td>
+<td align="center">
+  <strong>📜 Certificaciones</strong><br/>
+  • [Certificación 1]<br/>
+  • [Certificación 2]<br/>
+  • [Certificación 3]
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📫 Conectemos
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <a href="mailto:arbelocarlos3@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Gmail-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://linkedin.com/in/carlosmanuelarbelo">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-CarlosManuelArbelo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/CarlosManuelArbelo">
+    <img src="https://img.shields.io/badge/🐙_GitHub-CarlosManuelArbelo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://twitter.com/CarlosArbelo">
+    <img src="https://img.shields.io/badge/🐦_Twitter-CarlosArbelo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -135,7 +314,19 @@ Breve descripción del proyecto y las tecnologías utilizadas.
 
 <div align="center">
 
-### ¡Gracias por visitar mi perfil! 
+## 🌟 ¡Gracias por visitar mi perfil!
+
+![Visitantes](https://profile-counter.glitch.me/CarlosManuelArbelo/count.svg)
+
+<img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" width="200" alt="Happy Coding"/>
+
+### "El éxito es la suma de pequeños esfuerzos repetidos día tras día"
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,58A6FF,0D1117&height=100&section=footer" alt="footer"/>
+</div>
+
+</div>
 
 ![Visitantes](https://profile-counter.glitch.me/CarlosManuelArbelo/count.svg)
 
