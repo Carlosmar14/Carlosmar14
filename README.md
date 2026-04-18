@@ -1,124 +1,91 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:0d1117&height=300&section=header&text=Carlos%20Manuel%20Arbelo%20Rodriguez&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=51&descSize=16&descColor=ffffff" alt="header"/>
+</div>
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00F7FF,100:0d1117&height=220&section=header&text=Carlos%20Arbelo&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20|%20React%20%7C%20Node.js%20%7C%20System%20Design&descAlignY=55&descSize=13"/>
-
-<!-- TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;React+%2F+Node.js+%2F+TypeScript;Building+real+world+systems;Focused+on+clean+architecture" />
-
-<br/>
-
-<!-- GIF (CLEAN ONLY ONE) -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-<br/>
-
-<!-- SOCIAL -->
-<p>
-<a href="mailto:arbelocarlos3@gmail.com">
-<img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-</a>
-<a href="https://github.com/Carlosmar14">
-<img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-</p>
-
+<div align="center">
+  <a href="mailto:arbelocarlos3@gmail.com"><img src="https://img.shields.io/badge/📧_Email-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/CarlosManuelArbelo"><img src="https://img.shields.io/badge/_GitHub-CarlosManuelArbelo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/carlosmanuelarbelo"><img src="https://img.shields.io/badge/💼_LinkedIn-CarlosManuelArbelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mí
 
-<img align="right" width="280" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding"/>
+</div>
 
-I am a **Full Stack Engineer** focused on building scalable and production-ready systems.
+Soy **Carlos Manuel Arbelo Rodriguez**, Desarrollador de Software especializado en crear soluciones digitales escalables y de alto impacto. Combino backend robusto con interfaces modernas y fluidas.
 
-I specialize in:
-- ⚙️ Modern web development (React / Node.js)
-- 🧠 System design & architecture
-- 🚀 Performance optimization
-- 🧼 Clean, maintainable code
-
-### Current focus:
-- 🧾 Building a **production-grade POS system**
-- 🔧 Backend architecture design
-- ⚡ Scalable frontend systems
-- 📊 Real-world business applications
+🚀 **Objetivo:** Aportar valor mediante código limpio, arquitectura escalable y resolución eficiente de problemas.  
+📍 **Disponible para:** Contratación | Freelance | Proyectos Remotos
 
 ---
 
-## ⚙️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=00F7FF)
-![Next.js](https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=typescript&logoColor=00F7FF)
-![Tailwind](https://img.shields.io/badge/tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00F7FF)
-
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00F7FF)
-![Express](https://img.shields.io/badge/express-0d1117?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F7FF)
-
-### Tools
-![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=00F7FF)
-![VS Code](https://img.shields.io/badge/vscode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00F7FF)
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Carlosmar14&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/>
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Carlosmar14&theme=tokyonight&hide_border=true&background=0d1117"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosmar14&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9"/>
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
-
-### 🧾 Point of Sale System (POS)
-
-A **production-grade POS system** built for real business environments.
-
-**Key Features:**
-- 🛒 Sales management system  
-- 📦 Inventory control system  
-- 👥 Role-based authentication  
-- 📊 Real-time analytics dashboard  
-
-**Tech Stack:**
-React • Node.js • PostgreSQL • Tailwind CSS  
-
----
+##  Estadísticas
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240"/>
-
-<br/>
-
-> “Simple systems. Scalable architecture. Real impact.”
-
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosManuelArbelo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosManuelArbelo&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff" alt="Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosManuelArbelo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" alt="Languages"/>
 </div>
 
-## 🚀 Próximos pasos
+---
 
-* 🔐 Implementar autenticación (JWT)
-* 📈 Mejorar reportes
-* 🌍 Deploy del sistema
-* 📱 Versión responsive completa
+## 🚀 Proyectos Destacados
+
+| Proyecto | Tecnologías | Estado |
+| :--- | :--- | :---: |
+| **🛒 E-Commerce Platform**<br>_Plataforma completa con dashboard y pagos_ | `React` `Node.js` `MongoDB` `Stripe` | ✅ Activo |
+| **📊 Analytics Dashboard**<br>_Visualización de datos en tiempo real_ | `Vue.js` `Python` `PostgreSQL` `D3.js` | 🟢 Completado |
+| **🤖 AI Chat Assistant**<br>_Bot con procesamiento de lenguaje natural_ | `Python` `TensorFlow` `FastAPI` |  En desarrollo |
+| **📱 Task Manager Mobile**<br>_Gestión de equipos con sync en la nube_ | `React Native` `Firebase` `Redux` | ✅ Activo |
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+  <a href="mailto:arbelocarlos3@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/carlosmanuelarbelo"><img src="https://img.shields.io/badge/_LinkedIn-CarlosManuelArbelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/CarlosManuelArbelo"><img src="https://img.shields.io/badge/🐙_GitHub-CarlosManuelArbelo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=80&section=footer" alt="footer"/>
+</div>
 
