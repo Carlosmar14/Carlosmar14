@@ -1,127 +1,119 @@
-<h1 align="center">👋 Hola, soy Carlos</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Especialista+en+React+y+Node.js;Construyendo+sistemas+reales;Desarrollando+POS+System" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00F7FF,100:0d1117&height=220&section=header&text=Carlos%20Arbelo&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20|%20React%20%7C%20Node.js%20%7C%20System%20Design&descAlignY=55&descSize=13"/>
+
+<!-- TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;React+%2F+Node.js+%2F+TypeScript;Building+real+world+systems;Focused+on+clean+architecture" />
+
+<br/>
+
+<!-- GIF (CLEAN ONLY ONE) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+<br/>
+
+<!-- SOCIAL -->
+<p>
+<a href="mailto:arbelocarlos3@gmail.com">
+<img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+</a>
+<a href="https://github.com/Carlosmar14">
+<img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
 </p>
 
-<p align="center">
-  💻 Desarrollador Full Stack enfocado en aplicaciones web modernas y escalables  
-</p>
+</div>
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 About Me
 
-* 🔧 Desarrollo frontend y backend
-* 📊 Actualmente construyendo un sistema **POS profesional**
-* ⚡ Enfocado en rendimiento, arquitectura y buenas prácticas
-* 📚 Siempre aprendiendo nuevas tecnologías
+<img align="right" width="280" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
 
----
+I am a **Full Stack Engineer** focused on building scalable and production-ready systems.
 
-## 🧠 Tecnologías
+I specialize in:
+- ⚙️ Modern web development (React / Node.js)
+- 🧠 System design & architecture
+- 🚀 Performance optimization
+- 🧼 Clean, maintainable code
 
-<p align="center">
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-</p>
+### Current focus:
+- 🧾 Building a **production-grade POS system**
+- 🔧 Backend architecture design
+- ⚡ Scalable frontend systems
+- 📊 Real-world business applications
 
 ---
 
-## 🔥 Proyecto Destacado
+## ⚙️ Tech Stack
 
-### 🧾 POS SYSTEM
+### Frontend
+![React](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=00F7FF)
+![Next.js](https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=typescript&logoColor=00F7FF)
+![Tailwind](https://img.shields.io/badge/tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00F7FF)
 
-Sistema de punto de venta desarrollado con tecnologías modernas para la gestión de negocios.
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00F7FF)
+![Express](https://img.shields.io/badge/express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F7FF)
 
-### 🚀 Características
-
-* 🛒 Gestión de ventas
-* 📦 Control de inventario
-* 👥 Gestión de usuarios
-* 📊 Reportes básicos
-* 💾 Persistencia con base de datos
-
-### ⚙️ Tecnologías usadas
-
-* React
-* Node.js
-* SQL
-* Tailwind CSS
+### Tools
+![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=00F7FF)
+![VS Code](https://img.shields.io/badge/vscode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00F7FF)
 
 ---
 
-## 📂 Estructura del Proyecto
+## 📊 GitHub Stats
 
-```
-pos-system/
-├── client/        # Frontend (React)
-├── server/        # Backend (Node.js)
-├── database/      # Scripts SQL
-├── screenshots/   # Imágenes del sistema
-└── README.md
-```
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Carlosmar14&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
 
-## 📷 Preview
+<br/>
 
-*Aquí puedes agregar imágenes o gifs de tu sistema*
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Carlosmar14&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-```
-![POS](./screenshots/pos1.png)
-```
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosmar14&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9"/>
+
+</div>
 
 ---
 
-## ⚙️ Instalación
+## 🚀 Featured Project
 
-```bash
-# Clonar repositorio
-git clone https://github.com/Carlosmar14/pos-system.git
+### 🧾 Point of Sale System (POS)
 
-# Instalar frontend
-cd client
-npm install
-npm run dev
+A **production-grade POS system** built for real business environments.
 
-# Instalar backend
-cd ../server
-npm install
-npm start
-```
+**Key Features:**
+- 🛒 Sales management system  
+- 📦 Inventory control system  
+- 👥 Role-based authentication  
+- 📊 Real-time analytics dashboard  
+
+**Tech Stack:**
+React • Node.js • PostgreSQL • Tailwind CSS  
 
 ---
 
-## 📊 Estadísticas
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlosmar14&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosmar14&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240"/>
 
----
+<br/>
 
-## 🌐 Conecta conmigo
+> “Simple systems. Scalable architecture. Real impact.”
 
-📧 [arbeolcarlos3@gmail.com](mailto:arbeolcarlos3@gmail.com)
-
----
-
-## ⚡ Filosofía
-
-> "Construyendo sistemas reales, no solo proyectos de práctica"
-
----
+</div>
 
 ## 🚀 Próximos pasos
 
