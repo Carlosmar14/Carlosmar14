@@ -1,113 +1,150 @@
 <div align="center">
-  <h1>Carlos Manuel Arbelo Rodríguez</h1>
-  <h3>AI Engineer | Full Stack Developer | Systems Builder</h3>
-  <p>Building intelligent systems powered by AI, LLMs & scalable architectures</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:0d1117&height=300&section=header&text=Carlos%20Manuel%20Arbelo%20Rodriguez&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Software%20Architect%20Mindset&descAlignY=51&descSize=16&descColor=ffffff" />
+</div>
+
+<div align="center">
+  <a href="mailto:arbelocarlos3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/CarlosManuelArbelo">
+    <img src="https://img.shields.io/badge/GitHub-CarlosManuelArbelo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/carlosmanuelarbelo">
+    <img src="https://img.shields.io/badge/LinkedIn-CarlosManuelArbelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
-I am a Software Engineer focused on building **AI-powered applications**, scalable backend systems, and intelligent automation tools.
+I am **Carlos Manuel Arbelo Rodriguez**, a Full Stack Software Engineer focused on building **scalable web systems, robust APIs, and modern user experiences**.
 
-My work combines:
-- 🧠 Artificial Intelligence (LLMs, NLP, automation)
-- ⚙️ Backend engineering (APIs, distributed systems)
-- 🌐 Full Stack development (modern web apps)
-- 🚀 Product-focused engineering (real-world impact)
+I specialize in designing and developing production-ready applications using modern technologies, clean architecture principles, and performance-oriented engineering.
 
-I build systems that don’t just run code — they **make decisions, automate workflows, and enhance human productivity**.
+### 🎯 What I focus on:
+- Backend systems with scalable architecture (Node.js / Python)
+- Modern frontend development (React / Vue / TypeScript)
+- REST APIs, authentication systems, and real-time applications
+- Cloud deployment and containerized environments (Docker, AWS)
 
----
-
-## 🔬 Core Focus Areas
-
-- Large Language Model (LLM) integrations
-- AI agents & automation systems
-- Retrieval-Augmented Generation (RAG)
-- API design for AI-powered applications
-- Scalable backend architectures
-- Data-driven applications
+### 🚀 Engineering mindset:
+I care about **code quality, system design, and long-term maintainability**, not just building features.
 
 ---
 
-## 🧰 Tech Stack
+# 💡 What I Do Best
 
-### 🤖 AI / Data
-Python · TensorFlow · PyTorch · OpenAI APIs · NLP · FastAPI · Vector Databases
-
-### 🌐 Backend
-Node.js · Express · Python · PostgreSQL · MongoDB · REST APIs · GraphQL
-
-### 💻 Frontend
-React · Vue.js · TypeScript · JavaScript · HTML · CSS
-
-### ⚙️ DevOps & Tools
-Docker · Git · AWS · Linux · CI/CD · Figma
+- Designing scalable backend architectures
+- Building RESTful APIs and authentication systems
+- Creating responsive, high-performance frontend apps
+- Working with SQL & NoSQL databases
+- Containerization and deployment with Docker & AWS
+- Translating business requirements into technical solutions
 
 ---
 
-## 🚀 Projects
+# 🧠 Tech Stack
 
-### 🧠 AI Chat Assistant (LLM-Based System)
-Intelligent assistant powered by NLP and LLM APIs.
+### Core Technologies
+`React` · `Node.js` · `TypeScript` · `Python` · `JavaScript` · `PostgreSQL`
 
-- Context-aware responses using prompt engineering
-- FastAPI backend with scalable architecture
-- Integration with external knowledge sources
+### Backend & Infrastructure
+`Express.js` · `FastAPI` · `MongoDB` · `Docker` · `AWS` · `Linux`
 
-Stack: Python · FastAPI · OpenAI API · NLP
+### Frontend & UI
+`React` · `Vue.js` · `Tailwind CSS` · `HTML5` · `CSS3`
 
----
-
-### 🔍 RAG Knowledge System
-Retrieval-Augmented Generation system for document understanding.
-
-- Semantic search over custom datasets
-- Embedding-based retrieval pipeline
-- LLM response generation grounded in data
-
-Stack: Python · Vector DB · LLMs · Embeddings
+### Tools & Workflow
+`Git` · `GitHub` · `Figma` · `Postman` · `CI/CD`
 
 ---
 
-### 🛒 Full Stack AI E-Commerce Platform
-E-commerce system enhanced with AI features.
+# 🚀 Featured Projects
 
-- Product recommendation system
-- Smart search with NLP
-- Admin dashboard & analytics
+## 🛒 E-Commerce Platform (Full Stack System)
+A complete e-commerce system with authentication, admin dashboard, and payment integration.
 
-Stack: React · Node.js · MongoDB · AI APIs
+- **Stack:** React · Node.js · MongoDB · Stripe · Docker
+- **Features:**
+  - User authentication & authorization (JWT)
+  - Product management system
+  - Shopping cart & payment integration
+  - Admin dashboard for analytics and control
+- **Deployment:** Dockerized and cloud-ready architecture
 
----
-
-## 🧠 Engineering Philosophy
-
-- Build systems that scale, not just features
-- Prefer simplicity over unnecessary complexity
-- Use AI to augment, not replace, software design
-- Focus on production-ready architecture
+👉 Solves real-world online sales automation for small businesses.
 
 ---
 
-## 📈 Current Direction
+## 📊 Real-Time Analytics Dashboard
+Data visualization system for live business metrics.
 
-- AI Agents & autonomous workflows
-- LLM orchestration systems
-- RAG architectures for real applications
-- SaaS AI products
+- **Stack:** Vue.js · Python · PostgreSQL · D3.js
+- **Features:**
+  - Real-time data updates
+  - Interactive charts and dashboards
+  - Scalable backend data pipeline
+
+👉 Built to transform raw data into actionable insights.
 
 ---
 
-## 📫 Contact
+## 🤖 AI Chat Assistant
+Intelligent chatbot using NLP techniques and API integration.
 
-- Email: arbelocarlos3@gmail.com  
-- GitHub: CarlosManuelArbelo  
-- LinkedIn: carlosmanuelarbelo  
+- **Stack:** Python · FastAPI · TensorFlow
+- **Features:**
+  - Natural language processing
+  - Context-aware responses
+  - API-based architecture
+
+👉 Designed to explore AI-powered automation systems.
+
+---
+
+## 📱 Task Management App
+Cross-platform task manager for teams with cloud sync.
+
+- **Stack:** React Native · Firebase · Redux
+- **Features:**
+  - Real-time task synchronization
+  - Team collaboration features
+  - Offline support
+
+---
+
+# 🧪 Currently Working On
+
+- Microservices architecture with Node.js
+- Scalable backend systems design
+- AI-powered applications with Python
+- Improving system design & distributed systems knowledge
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosManuelArbelo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosManuelArbelo&theme=radical&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosManuelArbelo&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+# 📫 Contact
+
+If you're looking for a developer who focuses on **clean architecture, scalability, and real-world problem solving**, feel free to reach out:
+
+- 📧 Email: arbelocarlos3@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/carlosmanuelarbelo  
+- 🐙 GitHub: github.com/CarlosManuelArbelo  
 
 ---
 
 <div align="center">
-  <p><b>“Building intelligent systems that think, automate and scale.”</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=80&section=footer"/>
 </div>
