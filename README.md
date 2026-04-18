@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- 🎨 HEADER ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00F7FF,70:0d1117&height=300&section=header&text=Carlos%20Manuel%20Arbelo&fontSize=55&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20&%20Node.js%20Specialist&descAlignY=50&descAlign=68" alt="header"/>
 
@@ -136,39 +134,40 @@
 <!-- <img src="./assets/pos-dashboard.png" alt="POS Dashboard" width="800" style="border-radius:12px;border:2px solid #00F7FF"/> -->
 
 </div>
+
 ### ✨ Características
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="21" r="1"/><circle cx="19" cy="21" r="1"/><path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12"/></svg>
+<img src="https://unpkg.com/lucide-static@latest/icons/shopping-cart.svg" width="40" height="40" alt="Ventas" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**🛒 Ventas**  
+**Ventas**  
 Búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
 
 </td>
 <td width="25%" align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/></svg>
+<img src="https://unpkg.com/lucide-static@latest/icons/box.svg" width="40" height="40" alt="Inventario" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**📦 Inventario**  
+**Inventario**  
 Control de stock, categorías, proveedores y alertas automáticas.
 
 </td>
 <td width="25%" align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+<img src="https://unpkg.com/lucide-static@latest/icons/users.svg" width="40" height="40" alt="Usuarios" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**👥 Usuarios**  
+**Usuarios**  
 Roles granulares (Admin, Cajero, Supervisor) con auditoría.
 
 </td>
 <td width="25%" align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" x2="12" y1="20" y2="10"/><line x1="18" x2="18" y1="20" y2="4"/><line x1="6" x2="6" y1="20" y2="16"/></svg>
+<img src="https://unpkg.com/lucide-static@latest/icons/bar-chart-3.svg" width="40" height="40" alt="Reportes" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**📊 Reportes**  
+**Reportes**  
 Dashboard con métricas clave y exportación a PDF/Excel.
 
 </td>
@@ -186,6 +185,11 @@ Dashboard con métricas clave y exportación a PDF/Excel.
 [![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)](https://nodemon.io)
 
 </div>
+
+### 📂 Estructura
+
+<details>
+<summary><b>📁 Click para ver estructura completa</b></summary>
 
 ### 📂 Estructura
 
