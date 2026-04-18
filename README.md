@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- 📱 BADGES DE CONTACTO -->
+<!-- 📱 BADGES DE CONTACTO CON ÍCONOS SVG -->
 <a href="mailto:arbelocarlos3@gmail.com">
   <img src="https://img.shields.io/badge/-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
 </a>
@@ -23,24 +23,24 @@
 
 ---
 
-## 👤 Sobre Mí
+## <img src="https://cdn.simpleicons.org/aboutdotme/00F7FF" width="24"/> Sobre Mí
 
 <div align="center">
 <table>
 <tr>
 <td width="60%">
 
-### Carlos Manuel Arbelo Rodriguez
+### 👨‍💻 Carlos Manuel Arbelo Rodriguez
 
-**Desarrollador Full Stack** especializado en crear aplicaciones web modernas y escalables.
+**Desarrollador Full Stack** especializado en crear aplicaciones web modernas y escalables. Enfocado en construir **sistemas reales** con arquitectura sólida, rendimiento optimizado y clean code.
 
 **🎯 Enfoque Actual:**
-- ⚛️ Desarrollo frontend con **React** y **Tailwind CSS**
-- 🟢 Backend robusto con **Node.js** y **Express**
-- 🐘 Bases de datos con **PostgreSQL**
-- 🔧 CI/CD y control de versiones con **Git/GitHub**
+- <img src="https://cdn.simpleicons.org/react/00F7FF" width="16"/> Desarrollo frontend con **React** y **Tailwind CSS**
+- <img src="https://cdn.simpleicons.org/nodedotjs/00F7FF" width="16"/> Backend robusto con **Node.js** y **Express**
+- <img src="https://cdn.simpleicons.org/postgresql/00F7FF" width="16"/> Bases de datos relacionales con **PostgreSQL**
+- <img src="https://cdn.simpleicons.org/github/00F7FF" width="16"/> CI/CD y control de versiones con **Git/GitHub**
 
-**💼 Disponible para:** Proyectos freelance y oportunidades laborales
+**💼 Disponible para:** Proyectos freelance, consultorías y oportunidades laborales
 
 </td>
 <td width="40%" align="center">
@@ -54,30 +54,27 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## <img src="https://cdn.simpleicons.org/techstack/00F7FF" width="24"/> Stack Tecnológico
 
 <div align="center">
 
-### ⚛️ Frontend
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=1e293b&labelColor=0d1117)](https://react.dev)
+### <img src="https://cdn.simpleicons.org/react/61DAFB" width="20"/> Frontend
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=1e293b&labelColor=0d1117&color=0d1117)](https://react.dev)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=61DAFB&labelColor=0d1117)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)](https://typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)](https://tailwindcss.com)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)](https://html.spec.whatwg.org)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)](https://www.w3.org/Style/CSS/)
 
-### 🟢 Backend
+### <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="20"/> Backend
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)](https://expressjs.com)
 [![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&labelColor=0d1117)](https://jwt.io)
 
-### 🐘 Bases de Datos
+### <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="20"/> Bases de Datos
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)](https://postgresql.org)
 [![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)](https://mysql.com)
 
-### 🔧 Herramientas
+### <img src="https://cdn.simpleicons.org/git/F05032" width="20"/> Herramientas & DevOps
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)](https://docker.com)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)](https://code.visualstudio.com)
 [![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white&labelColor=0d1117)](https://nodemon.io)
@@ -86,7 +83,7 @@
 
 ---
 
-## 📊 Estadísticas
+## <img src="https://cdn.simpleicons.org/github/00F7FF" width="24"/> Estadísticas
 
 <div align="center">
 
@@ -116,7 +113,7 @@
 
 ---
 
-## 🏪 POS System - Proyecto Destacado
+## <img src="https://cdn.simpleicons.org/pointofsale/00F7FF" width="24"/> 🏪 POS System - Proyecto Destacado
 
 <div align="center">
 
@@ -133,6 +130,11 @@
 [![Repo](https://img.shields.io/badge/-Repositorio-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Carlosmar14/pos-system)
 [![Demo](https://img.shields.io/badge/-Demo%20Live-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](#)
 
+<br/>
+
+<!-- 🖼️ SCREENSHOT - Reemplaza con tu imagen real -->
+<!-- <img src="./assets/pos-dashboard.png" alt="POS Dashboard" width="800" style="border-radius:12px;border:2px solid #00F7FF"/> -->
+
 </div>
 
 ### ✨ Características
@@ -141,25 +143,29 @@
 <tr>
 <td width="25%" align="center">
 
-🛒 **Ventas**  
+<img src="https://cdn.simpleicons.org/shoppingcart/00F7FF" width="32"/><br/>
+**Ventas**  
 Búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
 
 </td>
 <td width="25%" align="center">
 
-📦 **Inventario**  
+<img src="https://cdn.simpleicons.org/inventory/00F7FF" width="32"/><br/>
+**Inventario**  
 Control de stock, categorías, proveedores y alertas automáticas.
 
 </td>
 <td width="25%" align="center">
 
-👥 **Usuarios**  
+<img src="https://cdn.simpleicons.org/users/00F7FF" width="32"/><br/>
+**Usuarios**  
 Roles granulares (Admin, Cajero, Supervisor) con auditoría.
 
 </td>
 <td width="25%" align="center">
 
-📊 **Reportes**  
+<img src="https://cdn.simpleicons.org/analytics/00F7FF" width="32"/><br/>
+**Reportes**  
 Dashboard con métricas clave y exportación a PDF/Excel.
 
 </td>
