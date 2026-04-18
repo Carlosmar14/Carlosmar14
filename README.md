@@ -1,150 +1,135 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:0d1117&height=300&section=header&text=Carlos%20Manuel%20Arbelo%20Rodriguez&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Software%20Architect%20Mindset&descAlignY=51&descSize=16&descColor=ffffff" />
+
+# 👨‍💻 Carlos Manuel Arbelo Rodriguez  
+### Full Stack Developer | React • Node.js • System Builder
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:00d4ff&height=250&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
+---
+
+### 📫 Connect with me
+
+<a href="mailto:arbelocarlos3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Carlosmar14">
+  <img src="https://img.shields.io/badge/GitHub-Carlosmar14-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </div>
 
-<div align="center">
-  <a href="mailto:arbelocarlos3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/CarlosManuelArbelo">
-    <img src="https://img.shields.io/badge/GitHub-CarlosManuelArbelo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/carlosmanuelarbelo">
-    <img src="https://img.shields.io/badge/LinkedIn-CarlosManuelArbelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+---
+
+# 🧠 About Me
+
+I am a **Full Stack Developer** focused on building **modern, scalable and high-performance web applications**.
+
+I enjoy turning ideas into real products using clean architecture and efficient code.
+
+- ⚙️ Backend systems with Node.js
+- 🎨 Frontend apps with React + Vite
+- 🧩 API design & database architecture
+- 🚀 Performance & scalability focused development
 
 ---
 
-# 👨‍💻 About Me
+# 🛠️ Tech Stack
 
-I am **Carlos Manuel Arbelo Rodriguez**, a Full Stack Software Engineer focused on building **scalable web systems, robust APIs, and modern user experiences**.
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-I specialize in designing and developing production-ready applications using modern technologies, clean architecture principles, and performance-oriented engineering.
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-### 🎯 What I focus on:
-- Backend systems with scalable architecture (Node.js / Python)
-- Modern frontend development (React / Vue / TypeScript)
-- REST APIs, authentication systems, and real-time applications
-- Cloud deployment and containerized environments (Docker, AWS)
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🚀 Engineering mindset:
-I care about **code quality, system design, and long-term maintainability**, not just building features.
-
----
-
-# 💡 What I Do Best
-
-- Designing scalable backend architectures
-- Building RESTful APIs and authentication systems
-- Creating responsive, high-performance frontend apps
-- Working with SQL & NoSQL databases
-- Containerization and deployment with Docker & AWS
-- Translating business requirements into technical solutions
+### 🧪 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)
 
 ---
 
-# 🧠 Tech Stack
+# 🚀 Featured Project
 
-### Core Technologies
-`React` · `Node.js` · `TypeScript` · `Python` · `JavaScript` · `PostgreSQL`
+## 🧾 POS System — Sistema de Gestión de Tiendas
 
-### Backend & Infrastructure
-`Express.js` · `FastAPI` · `MongoDB` · `Docker` · `AWS` · `Linux`
+> A modern Point of Sale system built for small/medium businesses to manage sales, inventory, and products efficiently.
 
-### Frontend & UI
-`React` · `Vue.js` · `Tailwind CSS` · `HTML5` · `CSS3`
-
-### Tools & Workflow
-`Git` · `GitHub` · `Figma` · `Postman` · `CI/CD`
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 E-Commerce Platform (Full Stack System)
-A complete e-commerce system with authentication, admin dashboard, and payment integration.
-
-- **Stack:** React · Node.js · MongoDB · Stripe · Docker
-- **Features:**
-  - User authentication & authorization (JWT)
-  - Product management system
-  - Shopping cart & payment integration
-  - Admin dashboard for analytics and control
-- **Deployment:** Dockerized and cloud-ready architecture
-
-👉 Solves real-world online sales automation for small businesses.
+### ⚙️ Tech Stack
+- React (Frontend)
+- Vite (Build tool)
+- Tailwind CSS (UI Design)
+- Node.js (Backend)
+- Express.js (API)
+- PostgreSQL (Database)
+- Nodemon (Development server)
 
 ---
 
-## 📊 Real-Time Analytics Dashboard
-Data visualization system for live business metrics.
+### ✨ Features
 
-- **Stack:** Vue.js · Python · PostgreSQL · D3.js
-- **Features:**
-  - Real-time data updates
-  - Interactive charts and dashboards
-  - Scalable backend data pipeline
-
-👉 Built to transform raw data into actionable insights.
-
----
-
-## 🤖 AI Chat Assistant
-Intelligent chatbot using NLP techniques and API integration.
-
-- **Stack:** Python · FastAPI · TensorFlow
-- **Features:**
-  - Natural language processing
-  - Context-aware responses
-  - API-based architecture
-
-👉 Designed to explore AI-powered automation systems.
+- 📦 Product management (CRUD)
+- 💰 Sales system with transaction tracking
+- 📊 Inventory control
+- 👥 User management system
+- ⚡ Fast and responsive UI
+- 🔐 Secure backend API
+- 🧠 Clean modular architecture
 
 ---
 
-## 📱 Task Management App
-Cross-platform task manager for teams with cloud sync.
+### 🎯 Project Goal
 
-- **Stack:** React Native · Firebase · Redux
-- **Features:**
-  - Real-time task synchronization
-  - Team collaboration features
-  - Offline support
-
----
-
-# 🧪 Currently Working On
-
-- Microservices architecture with Node.js
-- Scalable backend systems design
-- AI-powered applications with Python
-- Improving system design & distributed systems knowledge
+To build a **real-world retail management system** that simulates professional POS software used in stores and businesses.
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosManuelArbelo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosManuelArbelo&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosManuelArbelo&layout=compact&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Carlosmar14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosmar14&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosmar14&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+# 🎯 Currently Working On
+
+- 🧾 Improving POS System (architecture + features)
+- ⚙️ Backend optimization with Node.js
+- 🧠 Learning system design & scalable architectures
+- 🚀 Building production-ready full stack apps
 
 ---
 
 # 📫 Contact
 
-If you're looking for a developer who focuses on **clean architecture, scalability, and real-world problem solving**, feel free to reach out:
-
 - 📧 Email: arbelocarlos3@gmail.com  
 - 💼 LinkedIn: linkedin.com/in/carlosmanuelarbelo  
-- 🐙 GitHub: github.com/CarlosManuelArbelo  
+- 🐙 GitHub: github.com/Carlosmar14  
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=80&section=footer"/>
+
+### ⚡ "Code is not just logic, it's product thinking."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=120&section=footer"/>
+
 </div>
