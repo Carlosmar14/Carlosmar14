@@ -142,31 +142,38 @@
 <table>
 <tr>
 <td width="25%" align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg>
-  <br/><br/>
-  <strong>Ventas</strong><br/>
-  Búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
+
+<img src="https://unpkg.com/lucide-static@latest/icons/shopping-cart.svg" width="40" height="40" alt="Ventas" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
+
+**🛒 Ventas**  
+Búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
+
 </td>
 <td width="25%" align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16.5 9.4l-9-5.19M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
-  <br/><br/>
-  <strong>Inventario</strong><br/>
-  Control de stock, categorías, proveedores y alertas automáticas.
+
+<img src="https://unpkg.com/lucide-static@latest/icons/box.svg" width="40" height="40" alt="Inventario" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
+
+**📦 Inventario**  
+Control de stock, categorías, proveedores y alertas automáticas.
+
 </td>
 <td width="25%" align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-  <br/><br/>
-  <strong>Usuarios</strong><br/>
-  Roles granulares (Admin, Cajero, Supervisor) con auditoría.
+
+<img src="https://unpkg.com/lucide-static@latest/icons/users.svg" width="40" height="40" alt="Usuarios" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
+
+**👥 Usuarios**  
+Roles granulares (Admin, Cajero, Supervisor) con auditoría.
+
 </td>
 <td width="25%" align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/></svg>
-  <br/><br/>
-  <strong>Reportes</strong><br/>
-  Dashboard con métricas clave y exportación a PDF/Excel.
+
+<img src="https://unpkg.com/lucide-static@latest/icons/bar-chart-3.svg" width="40" height="40" alt="Reportes" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
+
+**📊 Reportes**  
+Dashboard con métricas clave y exportación a PDF/Excel.
+
 </td>
 </tr>
-</table>
 </table>
 
 ### 🛠️ Stack del Proyecto
