@@ -1,23 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Carlos Manuel Arbelo Rodriguez  
-### Full Stack Developer | React • Node.js • System Builder
+### 👨‍💻 Full Stack Developer | Builder of Modern Web Systems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:00d4ff&height=250&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-
----
-
-### 📫 Connect with me
-
-<a href="mailto:arbelocarlos3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Carlosmar14">
-  <img src="https://img.shields.io/badge/GitHub-Carlosmar14-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </div>
 
@@ -25,69 +10,92 @@
 
 # 🧠 About Me
 
-I am a **Full Stack Developer** focused on building **modern, scalable and high-performance web applications**.
+I am a **Full Stack Developer** focused on building modern, scalable and efficient web applications.
 
-I enjoy turning ideas into real products using clean architecture and efficient code.
+I enjoy turning ideas into real systems using clean code, good architecture and strong UI/UX principles.
 
-- ⚙️ Backend systems with Node.js
-- 🎨 Frontend apps with React + Vite
-- 🧩 API design & database architecture
-- 🚀 Performance & scalability focused development
+---
+
+### ⚡ What I do
+- 🌐 Frontend Development (React + UI Design)
+- ⚙️ Backend Systems (Node.js, PHP, Python)
+- 🗄️ Database Design (PostgreSQL, MySQL)
+- 🚀 API Development & Integration
+- 🎯 Full Stack Web Applications
 
 ---
 
 # 🛠️ Tech Stack
 
-### ⚡ Frontend
+## 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-005F9E?style=for-the-badge)
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Database
+---
+
+## 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧪 Tools
+---
+
+## 🧪 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 # 🚀 Featured Project
 
-## 🧾 POS System — Sistema de Gestión de Tiendas
+## 🧾 POS System — Store Management System
 
-> A modern Point of Sale system built for small/medium businesses to manage sales, inventory, and products efficiently.
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+
+A modern **Point of Sale System** for managing stores, products, and sales in real time.
+
+---
 
 ### ⚙️ Tech Stack
-- React (Frontend)
-- Vite (Build tool)
-- Tailwind CSS (UI Design)
-- Node.js (Backend)
-- Express.js (API)
-- PostgreSQL (Database)
-- Nodemon (Development server)
+React · Node.js · Tailwind CSS · PostgreSQL · MySQL · PHP · AJAX
 
 ---
 
 ### ✨ Features
-
-- 📦 Product management (CRUD)
-- 💰 Sales system with transaction tracking
-- 📊 Inventory control
-- 👥 User management system
-- ⚡ Fast and responsive UI
-- 🔐 Secure backend API
-- 🧠 Clean modular architecture
+- 📦 Product & Inventory Management
+- 💰 Sales & Billing System
+- 👥 User Roles & Authentication
+- 📊 Dashboard Analytics
+- ⚡ Fast UI with React + Tailwind
+- 🔄 Real-time updates with AJAX
+- 🧠 Scalable backend architecture
 
 ---
 
-### 🎯 Project Goal
+### 🎯 Goal
+Build a **real-world business system** similar to professional POS software used in retail stores.
 
-To build a **real-world retail management system** that simulates professional POS software used in stores and businesses.
+---
+
+# 🎯 Currently Working On
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
+
+- 🧾 Improving POS System architecture
+- ⚙️ Backend optimization (Node.js + PHP APIs)
+- 🧠 Learning scalable system design
+- 🚀 Building production-level full stack apps
 
 ---
 
@@ -109,20 +117,21 @@ To build a **real-world retail management system** that simulates professional P
 
 ---
 
-# 🎯 Currently Working On
-
-- 🧾 Improving POS System (architecture + features)
-- ⚙️ Backend optimization with Node.js
-- 🧠 Learning system design & scalable architectures
-- 🚀 Building production-ready full stack apps
-
----
-
 # 📫 Contact
 
 - 📧 Email: arbelocarlos3@gmail.com  
 - 💼 LinkedIn: linkedin.com/in/carlosmanuelarbelo  
 - 🐙 GitHub: github.com/Carlosmar14  
+
+---
+
+<div align="center">
+
+### ⚡ "Build systems, not just code."
+
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250"/>
+
+</div>
 
 ---
 
