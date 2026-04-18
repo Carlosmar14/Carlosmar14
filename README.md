@@ -23,7 +23,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/aboutdotme/00F7FF" width="24"/> Sobre Mí
+## <img src="https://cdn.simpleicons.org/aboutdotme/00F7FF" width="100"/> 
 
 <div align="center">
 <table>
