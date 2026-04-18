@@ -1,12 +1,12 @@
-<!-- 🎨 HEADER ANIMADO -->
+<!-- 🎨 ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00F7FF,70:0d1117&height=300&section=header&text=Carlos%20Manuel%20Arbelo&fontSize=55&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20&%20Node.js%20Specialist&descAlignY=50&descAlign=68" alt="header"/>
 
-<!-- ⌨️ EFECTO DE ESCRITURA -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer;Especialista+en+React+y+Node.js;Construyendo+sistemas+reales;Desarrollando+POS+System+Profesional)](https://git.io/typing-svg)
+<!-- ⌨️ TYPING EFFECT -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer;React+and+Node.js+Specialist;Building+real-world+systems;Developing+Professional+POS+System)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- 📱 BADGES DE CONTACTO CON ÍCONOS SVG -->
+<!-- 📱 CONTACT BADGES WITH SVG ICONS -->
 <a href="mailto:arbelocarlos3@gmail.com">
   <img src="https://img.shields.io/badge/-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
 </a>
@@ -30,15 +30,15 @@
 
 ### Carlos Manuel Arbelo Rodriguez
 
-**Desarrollador Full Stack** especializado en crear aplicaciones web modernas y escalables. Enfocado en construir **sistemas reales** con arquitectura sólida, rendimiento optimizado y clean code.
+**Full Stack Developer** specialized in building modern and scalable web applications. Focused on creating **real-world systems** with solid architecture, optimized performance, and clean code.
 
-**Enfoque Actual:**
-- <img src="https://cdn.simpleicons.org/react/00F7FF" width="16"/> Desarrollo frontend con **React** y **Tailwind CSS**
-- <img src="https://cdn.simpleicons.org/nodedotjs/00F7FF" width="16"/> Backend robusto con **Node.js** y **Express**
-- <img src="https://cdn.simpleicons.org/postgresql/00F7FF" width="16"/> Bases de datos relacionales con **PostgreSQL**
-- <img src="https://cdn.simpleicons.org/github/00F7FF" width="16"/> CI/CD y control de versiones con **Git/GitHub**
+**Current Focus:**
+- <img src="https://cdn.simpleicons.org/react/00F7FF" width="16"/> Frontend development with **React** and **Tailwind CSS**
+- <img src="https://cdn.simpleicons.org/nodedotjs/00F7FF" width="16"/> Robust backend with **Node.js** and **Express**
+- <img src="https://cdn.simpleicons.org/postgresql/00F7FF" width="16"/> Relational databases with **PostgreSQL**
+- <img src="https://cdn.simpleicons.org/github/00F7FF" width="16"/> CI/CD and version control with **Git/GitHub**
 
-**Disponible para:** Proyectos freelance, consultorías y oportunidades laborales
+**Available for:** Freelance projects, consulting, and job opportunities
 
 </td>
 <td width="40%" align="center">
@@ -54,7 +54,7 @@
 
 ## <span style="display: inline-flex; align-items: center; gap: 6px;">
   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2"><path d="M16 18l6-6-6-6M8 6l-6 6 6 6"/></svg>
-  <span>Stack Tecnológico</span>
+  <span>Technology Stack</span>
 </span>
 
 <div align="center">
@@ -70,11 +70,11 @@
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)](https://expressjs.com)
 [![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&labelColor=0d1117)](https://jwt.io)
 
-### <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="20"/> Bases de Datos
+### <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="20"/> Databases
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)](https://postgresql.org)
 [![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)](https://mysql.com)
 
-### <img src="https://cdn.simpleicons.org/git/F05032" width="20"/> Herramientas & DevOps
+### <img src="https://cdn.simpleicons.org/git/F05032" width="20"/> Tools & DevOps
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)](https://docker.com)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)](https://code.visualstudio.com)
@@ -84,7 +84,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/00F7FF" width="24"/> Estadísticas
+## <img src="https://cdn.simpleicons.org/github/00F7FF" width="24"/> Statistics
 
 <div align="center">
 
@@ -118,70 +118,70 @@
      width="24" height="24" 
      alt="Store" 
      style="vertical-align: middle; filter: invert(73%) sepia(95%) saturate(420%) hue-rotate(155deg);"/>
-<span style="vertical-align: middle; margin-left: 4px;">POS System - Proyecto Destacado</span>
+<span style="vertical-align: middle; margin-left: 4px;">POS System - Featured Project</span>
 
 <div align="center">
 
 ![Version](https://img.shields.io/badge/v1.0.0-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Status](https://img.shields.io/badge/En%20desarrollo-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)
+![Status](https://img.shields.io/badge/In%20Development-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)
 ![License](https://img.shields.io/badge/MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
 
 <br/>
 
-**Sistema profesional de punto de venta para gestión integral de comercios.**
+**Professional point-of-sale system for comprehensive business management.**
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/-Repositorio-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Carlosmar14/pos-system)
-[![Demo](https://img.shields.io/badge/-Demo%20Live-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](#)
+[![Repo](https://img.shields.io/badge/-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Carlosmar14/pos-system)
+[![Demo](https://img.shields.io/badge/-Live%20Demo-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](#)
 
 <br/>
 
-<!-- 🖼️ SCREENSHOT - Reemplaza con tu imagen real -->
+<!-- 🖼️ SCREENSHOT - Replace with your actual image -->
 <!-- <img src="./assets/pos-dashboard.png" alt="POS Dashboard" width="800" style="border-radius:12px;border:2px solid #00F7FF"/> -->
 
 </div>
 
-###  Características
+### Features
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-<img src="https://unpkg.com/lucide-static@latest/icons/shopping-cart.svg" width="40" height="40" alt="Ventas" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
+<img src="https://unpkg.com/lucide-static@latest/icons/shopping-cart.svg" width="40" height="40" alt="Sales" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**Ventas**  
-Búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
-
-</td>
-<td width="25%" align="center">
-
-<img src="https://unpkg.com/lucide-static@latest/icons/box.svg" width="40" height="40" alt="Inventario" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
-
-**Inventario**  
-Control de stock, categorías, proveedores y alertas automáticas.
+**Sales**  
+Real-time search, automatic calculations, and multiple payment methods.
 
 </td>
 <td width="25%" align="center">
 
-<img src="https://unpkg.com/lucide-static@latest/icons/users.svg" width="40" height="40" alt="Usuarios" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
+<img src="https://unpkg.com/lucide-static@latest/icons/box.svg" width="40" height="40" alt="Inventory" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**Usuarios**  
-Roles granulares (Admin, Cajero, Supervisor) con auditoría.
+**Inventory**  
+Stock control, categories, suppliers, and automatic alerts.
 
 </td>
 <td width="25%" align="center">
 
-<img src="https://unpkg.com/lucide-static@latest/icons/bar-chart-3.svg" width="40" height="40" alt="Reportes" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
+<img src="https://unpkg.com/lucide-static@latest/icons/users.svg" width="40" height="40" alt="Users" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**Reportes**  
-Dashboard con métricas clave y exportación a PDF/Excel.
+**Users**  
+Granular roles (Admin, Cashier, Supervisor) with audit logging.
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://unpkg.com/lucide-static@latest/icons/bar-chart-3.svg" width="40" height="40" alt="Reports" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
+
+**Reports**  
+Dashboard with key metrics and PDF/Excel export functionality.
 
 </td>
 </tr>
 </table>
 
-### Stack del Proyecto
+### Project Stack
 
 <div align="center">
 
@@ -193,10 +193,6 @@ Dashboard con métricas clave y exportación a PDF/Excel.
 
 </div>
 
-
-
 <details>
-<summary><b>📁 Click para ver estructura completa</b></summary>
-
-
+<summary><b>📁 Click to see full structure</b></summary>
 
