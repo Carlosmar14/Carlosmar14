@@ -1,103 +1,132 @@
-<div align="center">
+<h1 align="center">👋 Hola, soy Carlos</h1>
 
-<!-- HEADER CLEAN -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00F7FF,100:0d1117&height=220&section=header&text=Carlos%20Arbelo&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20|%20React%20%7C%20Node.js%20%7C%20System%20Design&descAlignY=55&descSize=13"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Especialista+en+React+y+Node.js;Construyendo+sistemas+reales;Desarrollando+POS+System" />
+</p>
 
-<!-- CLEAN TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;React+%2F+Node.js+%2F+TypeScript;Clean+architecture+focused;Building+scalable+systems" />
-
-</div>
-
----
-
-## 👨‍💻 About
-
-<img align="right" width="280" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
-
-Full Stack Engineer focused on **building scalable and production-ready systems**.
-
-I design and develop applications with a strong focus on:
-- ⚙️ Clean architecture
-- 🚀 Performance & scalability
-- 🧠 System design principles
-- 🧼 Maintainable codebases
-
-### Current focus:
-- 🧾 POS system (real-world production app)
-- 🔧 Backend architecture optimization
-- ⚡ Modern frontend systems with React
+<p align="center">
+  💻 Desarrollador Full Stack enfocado en aplicaciones web modernas y escalables  
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Sobre mí
 
-### Frontend
-![React](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=00F7FF)
-![Next.js](https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-0d1117?style=for-the-badge&logo=typescript&logoColor=00F7FF)
-![Tailwind](https://img.shields.io/badge/tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00F7FF)
-
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00F7FF)
-![Express](https://img.shields.io/badge/express-0d1117?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F7FF)
-
-### Tools
-![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=00F7FF)
-![VS Code](https://img.shields.io/badge/vscode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00F7FF)
+* 🔧 Desarrollo frontend y backend
+* 📊 Actualmente construyendo un sistema **POS profesional**
+* ⚡ Enfocado en rendimiento, arquitectura y buenas prácticas
+* 📚 Siempre aprendiendo nuevas tecnologías
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Tecnologías
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Carlosmar14&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Carlosmar14&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosmar14&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-### 🧾 POS System
-
-Production-grade Point of Sale system designed for real business operations.
-
-**Key Features:**
-- 🛒 Sales management system  
-- 📦 Inventory control  
-- 👥 Role-based authentication  
-- 📊 Real-time analytics dashboard  
-
-**Tech Stack:**
-React • Node.js • PostgreSQL • Tailwind CSS  
+</p>
 
 ---
 
-<div align="center">
+## 🔥 Proyecto Destacado
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" />
+### 🧾 POS SYSTEM
 
-<br/>
+Sistema de punto de venta desarrollado con tecnologías modernas para la gestión de negocios.
 
-> “Simple. Scalable. Maintainable.”
+### 🚀 Características
 
-</div>
+* 🛒 Gestión de ventas
+* 📦 Control de inventario
+* 👥 Gestión de usuarios
+* 📊 Reportes básicos
+* 💾 Persistencia con base de datos
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+### ⚙️ Tecnologías usadas
 
-<br/>
+* React
+* Node.js
+* SQL
+* Tailwind CSS
 
-> “Clean code. Scalable systems. Real impact.”
+---
 
-</div>
+## 📂 Estructura del Proyecto
+
+```
+pos-system/
+├── client/        # Frontend (React)
+├── server/        # Backend (Node.js)
+├── database/      # Scripts SQL
+├── screenshots/   # Imágenes del sistema
+└── README.md
+```
+
+---
+
+## 📷 Preview
+
+*Aquí puedes agregar imágenes o gifs de tu sistema*
+
+```
+![POS](./screenshots/pos1.png)
+```
+
+---
+
+## ⚙️ Instalación
+
+```bash
+# Clonar repositorio
+git clone https://github.com/Carlosmar14/pos-system.git
+
+# Instalar frontend
+cd client
+npm install
+npm run dev
+
+# Instalar backend
+cd ../server
+npm install
+npm start
+```
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlosmar14&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosmar14&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Conecta conmigo
+
+📧 [arbeolcarlos3@gmail.com](mailto:arbeolcarlos3@gmail.com)
+
+---
+
+## ⚡ Filosofía
+
+> "Construyendo sistemas reales, no solo proyectos de práctica"
+
+---
+
+## 🚀 Próximos pasos
+
+* 🔐 Implementar autenticación (JWT)
+* 📈 Mejorar reportes
+* 🌍 Deploy del sistema
+* 📱 Versión responsive completa
+
