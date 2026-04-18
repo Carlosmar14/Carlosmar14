@@ -28,17 +28,17 @@
 <tr>
 <td width="60%">
 
-### 👨‍💻 Carlos Manuel Arbelo Rodriguez
+### Carlos Manuel Arbelo Rodriguez
 
 **Desarrollador Full Stack** especializado en crear aplicaciones web modernas y escalables. Enfocado en construir **sistemas reales** con arquitectura sólida, rendimiento optimizado y clean code.
 
-**🎯 Enfoque Actual:**
+**Enfoque Actual:**
 - <img src="https://cdn.simpleicons.org/react/00F7FF" width="16"/> Desarrollo frontend con **React** y **Tailwind CSS**
 - <img src="https://cdn.simpleicons.org/nodedotjs/00F7FF" width="16"/> Backend robusto con **Node.js** y **Express**
 - <img src="https://cdn.simpleicons.org/postgresql/00F7FF" width="16"/> Bases de datos relacionales con **PostgreSQL**
 - <img src="https://cdn.simpleicons.org/github/00F7FF" width="16"/> CI/CD y control de versiones con **Git/GitHub**
 
-**💼 Disponible para:** Proyectos freelance, consultorías y oportunidades laborales
+**Disponible para:** Proyectos freelance, consultorías y oportunidades laborales
 
 </td>
 <td width="40%" align="center">
@@ -52,7 +52,10 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/techstack/00F7FF" width="24"/> Stack Tecnológico
+## <span style="display: inline-flex; align-items: center; gap: 6px;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#00F7FF" stroke-width="2"><path d="M16 18l6-6-6-6M8 6l-6 6 6 6"/></svg>
+  <span>Stack Tecnológico</span>
+</span>
 
 <div align="center">
 
@@ -178,7 +181,7 @@ Dashboard con métricas clave y exportación a PDF/Excel.
 </tr>
 </table>
 
-### 🛠️ Stack del Proyecto
+### Stack del Proyecto
 
 <div align="center">
 
@@ -190,12 +193,7 @@ Dashboard con métricas clave y exportación a PDF/Excel.
 
 </div>
 
-### 📂 Estructura
 
-<details>
-<summary><b>📁 Click para ver estructura completa</b></summary>
-
-### 📂 Estructura
 
 <details>
 <summary><b>📁 Click para ver estructura completa</b></summary>
