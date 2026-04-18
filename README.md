@@ -1,105 +1,80 @@
 <div align="center">
 
-# 👨‍💻 Carlos Manuel Arbelo Rodriguez  
-### Full Stack Developer
+# 👨‍💻 Carlos Manuel Arbelo Rodriguez
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+### 🚀 Full Stack Developer
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+
+**Creando soluciones digitales que marcan la diferencia**
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-Full Stack Developer focused on building **clean, scalable and functional web applications**.
-
-I enjoy solving real problems with simple, efficient and well-structured code.
-
----
-
-## ⚙️ Focus Areas
-
-- Frontend development with React
-- Backend APIs with Node.js / PHP / Python
-- Database design (SQL & NoSQL)
-- Full stack web applications
-- System architecture for real-world projects
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-React · Tailwind CSS · JavaScript · HTML · CSS · AJAX
-
-### Backend
-Node.js · PHP · Python
-
-### Databases
-PostgreSQL · MySQL
-
-### Tools
-Git · Nodemon · VS Code
-
----
-
-## 🚀 Featured Project
-
-### 🧾 POS System — Store Management App
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240"/>
-
-A **Point of Sale system** for managing products, sales and inventory in stores.
-
-### 🧩 Stack
-React · Tailwind CSS · Node.js · PHP · PostgreSQL · MySQL · AJAX
-
-### ✨ Features
-- Product management (CRUD)
-- Sales and billing system
-- Inventory tracking
-- User authentication
-- Admin dashboard
-- Real-time updates
-
-### 🎯 Goal
-Build a **real business system**, not just a demo app.
-
----
-
-## 📊 GitHub Stats
+## 🎯 Sobre Mí
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Carlosmar14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosmar14&theme=tokyonight&hide_border=true"/>
-
+<img src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="400"/>
 </div>
 
----
+Soy un **Full Stack Developer** apasionado por construir aplicaciones web **limpias, escalables y funcionales**.
 
-## 📫 Contact
+💡 Mi enfoque: Resolver problemas reales con código simple, eficiente y bien estructurado.
 
-- Email: arbelocarlos3@gmail.com  
-- GitHub: github.com/Carlosmar14  
-- LinkedIn: linkedin.com/in/carlosmanuelarbelo  
+🎓 Aprendizaje continuo | 🔧 Código limpio | 🎨 UX/UI consciente
 
 ---
 
+## 💻 Stack Tecnológico
+
+### 🎨 Frontend
 <div align="center">
 
-### ⚡ Building real systems, not just code.
+| **Core** | **Estilos** | **Librerías** |
+|:--------:|:-----------:|:-------------:|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=jquery&logoColor=white" /> |
 
 </div>
----
 
+### ⚙️ Backend
 <div align="center">
 
-### ⚡ "Code is not just logic, it's product thinking."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=120&section=footer"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
+
+### 🗄️ Bases de Datos
+<div align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
+
+### 🛠️ Herramientas & DevOps
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+
+</div>
+
+---
+
+## 🌟 Proyecto Destacado
+
+<div align="center">
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300"/>
+</div>
+
+### 🧾 **POS System** — Sistema de Gestión para Tiendas
+
+> Una aplicación completa de **Punto de Venta** para gestionar productos, ventas e inventario.
+
+#### 🏗️ Arquitectura
