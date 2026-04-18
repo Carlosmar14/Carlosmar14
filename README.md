@@ -143,7 +143,9 @@
 <tr>
 <td width="25%" align="center">
 
-<img src="https://unpkg.com/lucide-static@latest/icons/shopping-cart.svg" width="40" height="40" alt="Ventas" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
+<img src="https://unpkg.com/lucide-static@latest/icons/shopping-cart.svg" 
+     width="40" height="40" alt="Ventas"
+     style="filter: invert(73%) sepia(95%) saturate(420%) hue-rotate(155deg) brightness(102%) contrast(101%);"/>
 
 **Ventas**  
 Búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
