@@ -172,6 +172,5 @@ Análisis y reportes en tiempo real
 
 </div>
 
-#### 📂 Estructura del Proyecto
 
 
