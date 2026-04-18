@@ -1,100 +1,45 @@
-# 👋 ¡Hola! Mi nombre es Carlos Manuel Arbelo Rodrigues
-
-![Waving Hand](https://media.giphy.com/media/h65Y5AGFsEwUw/giphy.gif)
-
----
-
-## 📚 Sobre Mí
-
-Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo full stack con enfoque en aplicaciones web modernas y escalables.
-
-![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
----
-
-## 🛠️ Tecnologías
-
-### 🎨 Frontend
 <div align="center">
-  <img src="https://media.giphy.com/media/377at7p1MsJyUrEczZ/giphy.gif" width="80" alt="React"/>
-  <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="80" alt="Tailwind"/>
+  
+  # 👋 ¡Hola, soy Carlos!
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Especialista+en+React+y+Node.js;Construyendo+el+futuro+con+c%C3%B3digo;Arquitecto+de+Sistemas+POS)](https://git.io/typing-svg)
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Carlosmar14&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+  </p>
+
+  <h3>
+    💻 Full Stack Developer | 🚀 Construyendo sistemas escalables | 🔥 Enfocado en rendimiento real
+  </h3>
+
+  <br/>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
 </div>
 
-**React** | **Tailwind CSS** | **HTML5** | **CSS3** | **JavaScript**
+<br/>
 
-### ⚙️ Backend
-<div align="center">
-  <img src="https://media.giphy.com/media/3t77ie0GJvzsmFjGOW/giphy.gif" width="80" alt="Node.js"/>
-</div>
+## 🧑‍💻 Sobre mí en 30 segundos
 
-**Node.js** | **Express** | **REST APIs**
+<table border="0">
+<tr>
+<td width="60%">
+  
+  * 🔧 **Full Stack** con foco en **React** y **Node.js**
+  * 🧾 Actualmente desarrollando un **Sistema POS Profesional** (Producción)
+  * ⚡ Obsesionado con la **arquitectura limpia** y la **experiencia de usuario**
+  * 📊 Transformando requerimientos complejos en dashboards intuitivos
+  * 🌱 Aprendiendo sobre **Microservicios** y **Cloud Architecture**
 
-### 🗄️ Base de Datos
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" alt="PostgreSQL"/>
-</div>
-
-**PostgreSQL** | **SQL**
-
-### 🔧 Herramientas
-**Nodemon** | **Git** | **GitHub** | **npm**
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🏪 POS System - Sistema de Gestión de Tiendas Profesional
-
-Un sistema completo de punto de venta diseñado para optimizar la gestión de tiendas y mejorar la experiencia del usuario.
-
-![POS System](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
-
-**Descripción:**
-Sistema profesional de gestión de tiendas que permite administrar inventario, ventas, clientes y reportes en tiempo real.
-
-**Tecnologías Utilizadas:**
-- ⚛️ **React** - Frontend moderno y reactivo
-- 🟢 **Node.js** - Backend robusto y escalable
-- 🐘 **PostgreSQL** - Base de datos relacional
-- 🎨 **Tailwind CSS** - Diseño responsive y moderno
-- 🔄 **Nodemon** - Desarrollo ágil y eficiente
-
-**Características Principales:**
-- ✅ Gestión de inventario en tiempo real
-- ✅ Proceso de ventas rápido y eficiente
-- ✅ Reportes y estadísticas detalladas
-- ✅ Interfaz intuitiva y responsive
-- ✅ Control de usuarios y permisos
-
----
-
-## 📊 Estadísticas de GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlosmar14&show_icons=true&theme=radical)](https://github.com/Carlosmar14)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosmar14&layout=compact&theme=radical)](https://github.com/Carlosmar14)
-
----
-
-## 📫 Contacto
-
-<div align="center">
-
-### Carlos Manuel Arbelo Rodriguez
-
-**GitHub:** [@Carlosmar14](https://github.com/Carlosmar14)
-
-![Contact](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/25zRtOxdsmxkxWu6u/giphy.gif" width="200" alt="Footer"/>
-</p>
-
-<p align="center">
-  <strong>¡Gracias por visitar mi perfil! 🚀</strong>
-</p>
+</td>
+<td width="40%">
+  
+  ```javascript
+  const carlos = {
+    code: ["JavaScript", "PHP", "Python"],
+    frontend: ["React", "Tailwind", "HTML5"],
+    backend: ["Node", "Express", "SQL"],
+    goal: "Build systems that matter"
+  };
 
