@@ -111,7 +111,11 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/pointofsale/00F7FF" width="24"/> 🏪 POS System - Proyecto Destacado
+<img src="https://unpkg.com/lucide-static@latest/icons/store.svg" 
+     width="24" height="24" 
+     alt="Store" 
+     style="vertical-align: middle; filter: invert(73%) sepia(95%) saturate(420%) hue-rotate(155deg);"/>
+<span style="vertical-align: middle; margin-left: 4px;">POS System - Proyecto Destacado</span>
 
 <div align="center">
 
@@ -135,7 +139,7 @@
 
 </div>
 
-### ✨ Características
+###  Características
 
 <table>
 <tr>
