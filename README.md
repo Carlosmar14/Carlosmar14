@@ -1,80 +1,92 @@
 <div align="center">
 
-# 👨‍💻 Carlos Manuel Arbelo Rodriguez
+# Carlos Manuel Arbelo Rodriguez
+### Full Stack Developer
 
-### 🚀 Full Stack Developer
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-
-**Creando soluciones digitales que marcan la diferencia**
+[![Email](https://img.shields.io/badge/📧_Email-arbelocarlos3@gmail.com-0077B5?style=flat-square)](mailto:arbelocarlos3@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Carlosmar14-181717?style=flat-square)](https://github.com/Carlosmar14)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-carlosmanuelarbelo-0A66C2?style=flat-square)](https://linkedin.com/in/carlosmanuelarbelo)
 
 </div>
 
 ---
 
-## 🎯 Sobre Mí
-
 <div align="center">
-<img src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="400"/>
+
+> *"Transformo necesidades de negocio en software robusto, escalable y mantenible."*
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60"/>
+
 </div>
-
-Soy un **Full Stack Developer** apasionado por construir aplicaciones web **limpias, escalables y funcionales**.
-
-💡 Mi enfoque: Resolver problemas reales con código simple, eficiente y bien estructurado.
-
-🎓 Aprendizaje continuo | 🔧 Código limpio | 🎨 UX/UI consciente
 
 ---
 
-## 💻 Stack Tecnológico
+## 👨‍💻 Perfil Profesional
 
-### 🎨 Frontend
+Desarrollador Full Stack con experiencia en el diseño y construcción de **aplicaciones web empresariales**. Mi enfoque se centra en:
+
+✅ **Código limpio y mantenible** — Arquitectura escalable y buenas prácticas  
+✅ **Soluciones orientadas al negocio** — Entiendo el "por qué" detrás de cada feature  
+✅ **Experiencia de usuario** — Interfaces intuitivas y performantes  
+✅ **Trabajo en entornos reales** — Sistemas que funcionan en producción, no solo en demo
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 🎨 Frontend Development
 <div align="center">
 
-| **Core** | **Estilos** | **Librerías** |
-|:--------:|:-----------:|:-------------:|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=jquery&logoColor=white" /> |
+| Tecnología | Propósito | Nivel |
+|-----------|-----------|-------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=1e293b) | SPA & Componentes reutilizables | ⭐⭐⭐⭐⭐ |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=1e293b) | Estilizado rápido y responsive | ⭐⭐⭐⭐⭐ |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=1e293b) | Lógica frontend & interactividad | ⭐⭐⭐⭐⭐ |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=1e293b) | Estructura semántica & accesibilidad | ⭐⭐⭐⭐⭐ |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=1e293b) | Estilos, animaciones & layout | ⭐⭐⭐⭐⭐ |
 
 </div>
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
 <div align="center">
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+| Tecnología | Propósito | Nivel |
+|-----------|-----------|-------|
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | APIs REST, middleware & servicios | ⭐⭐⭐⭐⭐ |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=1e293b) | Backend tradicional & integraciones | ⭐⭐⭐⭐ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Scripts, automatización & backend | ⭐⭐⭐⭐ |
 
 </div>
 
 ### 🗄️ Bases de Datos
 <div align="center">
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+| Tecnología | Tipo | Casos de Uso |
+|-----------|------|--------------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | Relacional | Sistemas transaccionales, integridad de datos |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | Relacional | Aplicaciones web, reporting |
 
 </div>
 
-### 🛠️ Herramientas & DevOps
+### 🧰 Herramientas & Workflow
 <div align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Proyecto Destacado
+## 🚀 Proyecto Destacado: POS System
 
 <div align="center">
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/xT9IgMw1FSyPgqQJoc/giphy.gif" width="200"/>
 </div>
 
-### 🧾 **POS System** — Sistema de Gestión para Tiendas
+### 📋 Descripción
+Sistema de **Punto de Venta (POS)** desarrollado para la gestión integral de comercios minoristas. Solución diseñada para operar en entornos reales con requisitos de estabilidad, seguridad y usabilidad.
 
-> Una aplicación completa de **Punto de Venta** para gestionar productos, ventas e inventario.
-
-#### 🏗️ Arquitectura
+### 🏗️ Arquitectura Técnica
