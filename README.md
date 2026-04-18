@@ -8,22 +8,22 @@
 
 <br/>
 
-<!-- 📱 BADGES DE CONTACTO -->
+<!-- 📱 BADGES DE CONTACTO CON ÍCONOS SVG -->
 <a href="mailto:arbelocarlos3@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/-arbelocarlos3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
 </a>
 <a href="https://github.com/Carlosmar14">
-  <img src="https://img.shields.io/badge/🐙_GitHub-Carlosmar14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Carlosmar14-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/carlosmanuelarbelo">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-CarlosManuelArbelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-CarlosManuelArbelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"/> SOBRE MÍ
+## <img src="https://cdn.simpleicons.org/aboutdotme/00F7FF" width="24"/> Sobre Mí
 
 <div align="center">
 <table>
@@ -32,13 +32,13 @@
 
 ### 👨‍💻 Carlos Manuel Arbelo Rodriguez
 
-**Desarrollador Full Stack** especializado en crear aplicaciones web modernas y escalables. Enfocado en construir **sistemas reales** con arquitectura sólida, rendimiento optimizado y las mejores prácticas de desarrollo.
+**Desarrollador Full Stack** especializado en crear aplicaciones web modernas y escalables. Enfocado en construir **sistemas reales** con arquitectura sólida, rendimiento optimizado y clean code.
 
 **🎯 Enfoque Actual:**
-- 🔧 Desarrollo frontend y backend con JavaScript/TypeScript
-- 📊 Construyendo un **POS System profesional** para gestión comercial
-- ⚡ Rendimiento, arquitectura limpia y clean code
-- 📚 Aprendizaje continuo: nuevas tecnologías y patrones de diseño
+- <img src="https://cdn.simpleicons.org/react/00F7FF" width="16"/> Desarrollo frontend con **React** y **Tailwind CSS**
+- <img src="https://cdn.simpleicons.org/nodedotjs/00F7FF" width="16"/> Backend robusto con **Node.js** y **Express**
+- <img src="https://cdn.simpleicons.org/postgresql/00F7FF" width="16"/> Bases de datos relacionales con **PostgreSQL**
+- <img src="https://cdn.simpleicons.org/github/00F7FF" width="16"/> CI/CD y control de versiones con **Git/GitHub**
 
 **💼 Disponible para:** Proyectos freelance, consultorías y oportunidades laborales
 
@@ -54,34 +54,36 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> STACK TECNOLÓGICO
+## <img src="https://cdn.simpleicons.org/techstack/00F7FF" width="24"/> Stack Tecnológico
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)
+### <img src="https://cdn.simpleicons.org/react/61DAFB" width="20"/> Frontend
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=1e293b&labelColor=0d1117&color=0d1117)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=61DAFB&labelColor=0d1117)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)](https://typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)](https://tailwindcss.com)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)
+### <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="20"/> Backend
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)](https://expressjs.com)
+[![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&labelColor=0d1117)](https://jwt.io)
 
-### 🗄️ Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+### <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="20"/> Bases de Datos
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)](https://mysql.com)
 
-### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
+### <img src="https://cdn.simpleicons.org/git/F05032" width="20"/> Herramientas & DevOps
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)](https://docker.com)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)](https://code.visualstudio.com)
+[![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white&labelColor=0d1117)](https://nodemon.io)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/gUPGer3GecsCDz2vvI/giphy.gif" width="40"/> ESTADÍSTICAS
+## <img src="https://cdn.simpleicons.org/github/00F7FF" width="24"/> Estadísticas
 
 <div align="center">
 
@@ -111,73 +113,81 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 🏪 POS SYSTEM - PROYECTO DESTACADO
+## <img src="https://cdn.simpleicons.org/pointofsale/00F7FF" width="24"/> 🏪 POS System - Proyecto Destacado
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/versión-1.0.0-00F7FF?style=for-the-badge&logo=github&logoColor=white)
-![Estado](https://img.shields.io/badge/estado-En%20desarrollo-00ff88?style=for-the-badge&logo=vercel&logoColor=white)
-![Licencia](https://img.shields.io/badge/licencia-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Version](https://img.shields.io/badge/v1.0.0-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Status](https://img.shields.io/badge/En%20desarrollo-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)
+![License](https://img.shields.io/badge/MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
 
 <br/>
 
-**Sistema profesional de punto de venta desarrollado con tecnologías modernas para la gestión integral de comercios.**
+**Sistema profesional de punto de venta para gestión integral de comercios.**
 
 <br/>
 
-[![Ver Repositorio](https://img.shields.io/badge/🔗_Repositorio-GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlosmar14/pos-system)
-[![Demo Live](https://img.shields.io/badge/🎬_Demo_Live-Disponible-00ff88?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/-Repositorio-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Carlosmar14/pos-system)
+[![Demo](https://img.shields.io/badge/-Demo%20Live-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](#)
 
 <br/>
 
-<!-- 🖼️ PLACEHOLDER PARA SCREENSHOT - Reemplaza con tu imagen real -->
-<!-- <img src="./assets/pos-screenshot.png" alt="POS System Screenshot" width="800"/> -->
+<!-- 🖼️ SCREENSHOT - Reemplaza con tu imagen real -->
+<!-- <img src="./assets/pos-dashboard.png" alt="POS Dashboard" width="800" style="border-radius:12px;border:2px solid #00F7FF"/> -->
 
 </div>
 
-### 🚀 Características Principales
+### ✨ Características
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-🛒 **Ventas**  
-Proceso de venta rápido con búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
+<img src="https://cdn.simpleicons.org/shoppingcart/00F7FF" width="32"/><br/>
+**Ventas**  
+Búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
 
 </td>
 <td width="25%" align="center">
 
-📦 **Inventario**  
-Control completo de productos: stock, categorías, proveedores y alertas de bajo inventario.
+<img src="https://cdn.simpleicons.org/inventory/00F7FF" width="32"/><br/>
+**Inventario**  
+Control de stock, categorías, proveedores y alertas automáticas.
 
 </td>
 <td width="25%" align="center">
 
-👥 **Usuarios**  
-Sistema de roles (Admin, Cajero, Supervisor) con permisos granulares y auditoría de acciones.
+<img src="https://cdn.simpleicons.org/users/00F7FF" width="32"/><br/>
+**Usuarios**  
+Roles granulares (Admin, Cajero, Supervisor) con auditoría.
 
 </td>
 <td width="25%" align="center">
 
-📊 **Reportes**  
-Dashboard con métricas clave: ventas diarias, productos más vendidos, ganancias y exportación a PDF/Excel.
+<img src="https://cdn.simpleicons.org/analytics/00F7FF" width="32"/><br/>
+**Reportes**  
+Dashboard con métricas clave y exportación a PDF/Excel.
 
 </td>
 </tr>
 </table>
 
-### ⚙️ Stack Tecnológico
+### 🛠️ Stack del Proyecto
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=1e293b)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)](https://nodemon.io)
 
 </div>
 
-### 📂 Estructura del Proyecto
+### 📂 Estructura
+
+<details>
+<summary><b>📁 Click para ver estructura completa</b></summary>
+
 
 
