@@ -145,7 +145,7 @@
 
 <img src="https://unpkg.com/lucide-static@latest/icons/shopping-cart.svg" width="40" height="40" alt="Ventas" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**🛒 Ventas**  
+**Ventas**  
 Búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
 
 </td>
@@ -153,7 +153,7 @@ Búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
 
 <img src="https://unpkg.com/lucide-static@latest/icons/box.svg" width="40" height="40" alt="Inventario" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**📦 Inventario**  
+**Inventario**  
 Control de stock, categorías, proveedores y alertas automáticas.
 
 </td>
@@ -161,7 +161,7 @@ Control de stock, categorías, proveedores y alertas automáticas.
 
 <img src="https://unpkg.com/lucide-static@latest/icons/users.svg" width="40" height="40" alt="Usuarios" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**👥 Usuarios**  
+**Usuarios**  
 Roles granulares (Admin, Cajero, Supervisor) con auditoría.
 
 </td>
@@ -169,7 +169,7 @@ Roles granulares (Admin, Cajero, Supervisor) con auditoría.
 
 <img src="https://unpkg.com/lucide-static@latest/icons/bar-chart-3.svg" width="40" height="40" alt="Reportes" style="filter: brightness(0) saturate(100%) invert(62%) sepia(97%) saturate(388%) hue-rotate(156deg) brightness(101%) contrast(101%);"/>
 
-**📊 Reportes**  
+**Reportes**  
 Dashboard con métricas clave y exportación a PDF/Excel.
 
 </td>
