@@ -28,19 +28,19 @@
 <div align="center">
 <table>
 <tr>
-<td width="60%" align="center">
+<td width="60%">
 
-### 👨‍ Carlos Manuel Arbelo Rodriguez
+### 👨‍💻 Carlos Manuel Arbelo Rodriguez
 
 **Desarrollador Full Stack** especializado en crear aplicaciones web modernas y escalables. Enfocado en construir **sistemas reales** con arquitectura sólida, rendimiento optimizado y las mejores prácticas de desarrollo.
 
 **🎯 Enfoque Actual:**
-- 🔧 Desarrollo frontend y backend
-- 📊 Construyendo un **POS System profesional**
+- 🔧 Desarrollo frontend y backend con JavaScript/TypeScript
+- 📊 Construyendo un **POS System profesional** para gestión comercial
 - ⚡ Rendimiento, arquitectura limpia y clean code
-- 📚 Aprendizaje continuo de nuevas tecnologías
+- 📚 Aprendizaje continuo: nuevas tecnologías y patrones de diseño
 
-**💼 Disponible para:** Proyectos freelance y oportunidades laborales
+**💼 Disponible para:** Proyectos freelance, consultorías y oportunidades laborales
 
 </td>
 <td width="40%" align="center">
@@ -61,23 +61,19 @@
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)
 
-### ⚙️ Backend & Bases de Datos
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+
+### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
 
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
 
@@ -115,59 +111,73 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> PROYECTO DESTACADO
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 🏪 POS SYSTEM - PROYECTO DESTACADO
 
 <div align="center">
 
-### 🧾 POS SYSTEM - SISTEMA DE PUNTO DE VENTA
-
-**Sistema profesional de punto de venta desarrollado con tecnologías modernas para la gestión integral de negocios.**
+![Version](https://img.shields.io/badge/versión-1.0.0-00F7FF?style=for-the-badge&logo=github&logoColor=white)
+![Estado](https://img.shields.io/badge/estado-En%20desarrollo-00ff88?style=for-the-badge&logo=vercel&logoColor=white)
+![Licencia](https://img.shields.io/badge/licencia-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 <br/>
 
-![POS System](https://img.shields.io/badge/🔗_Ver_Proyecto-GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=white)
-![Demo](https://img.shields.io/badge/🎬_Demo_Live-Disponible-00ff88?style=for-the-badge&logo=vercel&logoColor=white)
+**Sistema profesional de punto de venta desarrollado con tecnologías modernas para la gestión integral de comercios.**
+
+<br/>
+
+[![Ver Repositorio](https://img.shields.io/badge/🔗_Repositorio-GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlosmar14/pos-system)
+[![Demo Live](https://img.shields.io/badge/🎬_Demo_Live-Disponible-00ff88?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/>
+
+<!-- 🖼️ PLACEHOLDER PARA SCREENSHOT - Reemplaza con tu imagen real -->
+<!-- <img src="./assets/pos-screenshot.png" alt="POS System Screenshot" width="800"/> -->
 
 </div>
 
-#### 🚀 Características Principales
+### 🚀 Características Principales
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-🛒 **Gestión de Ventas**  
-Proceso de venta rápido y eficiente
+🛒 **Ventas**  
+Proceso de venta rápido con búsqueda en tiempo real, cálculo automático y múltiples métodos de pago.
 
 </td>
 <td width="25%" align="center">
 
-📦 **Control de Inventario**  
-Gestión completa de productos y stock
+📦 **Inventario**  
+Control completo de productos: stock, categorías, proveedores y alertas de bajo inventario.
 
 </td>
 <td width="25%" align="center">
 
-👥 **Gestión de Usuarios**  
-Roles y permisos configurables
+👥 **Usuarios**  
+Sistema de roles (Admin, Cajero, Supervisor) con permisos granulares y auditoría de acciones.
 
 </td>
 <td width="25%" align="center">
 
 📊 **Reportes**  
-Análisis y reportes en tiempo real
+Dashboard con métricas clave: ventas diarias, productos más vendidos, ganancias y exportación a PDF/Excel.
 
 </td>
 </tr>
 </table>
 
-#### ⚙️ Tecnologías Utilizadas
+### ⚙️ Stack Tecnológico
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
 
-#### 📂 Estructura del Proyecto
+</div>
+
+### 📂 Estructura del Proyecto
 
 
